@@ -17,7 +17,9 @@
 
 <br>
 
-  ![Página inicial](https://user-images.githubusercontent.com/67246528/123489762-0e5cef80-d5e9-11eb-8efb-36344a3faf49.png)
+<p align="center">
+  <img alt="License" src="https://user-images.githubusercontent.com/67246528/123491707-bffe1f80-d5ed-11eb-8219-0d322b89c654.png">
+</p>
 
 
 ## ✨ Tecnologias
